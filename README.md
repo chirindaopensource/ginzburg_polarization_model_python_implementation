@@ -1,0 +1,1 @@
+# ginzburg_polarization_model_python_implementation
